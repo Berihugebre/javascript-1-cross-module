@@ -4,7 +4,7 @@ var project = {
     discription: 'This is our second project on javascript-1 week two' 
  };
 function print_deets(obj){
-for (let prop in project){
+for (let prop in obj){
     console.log(prop + ': '+ obj[prop]);
 }
 }
