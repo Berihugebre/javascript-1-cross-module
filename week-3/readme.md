@@ -19,9 +19,9 @@
 
 |  | your Emoji | your comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| Home page  |:white-check-mark: | | | |
-| Team page |:white-check-mark: | | | |
-| Calc page |:white-check-mark: | | | |
+| Home page  |:white_check_mark: | | | |
+| Team page |:white_check_mark: | | | |
+| Calc page |:white_check_mark: | | | |
 
 
 ---
