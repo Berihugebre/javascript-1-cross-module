@@ -5,13 +5,13 @@ function log_handler(){
 function a_handler(){
     var a_input = document.getElementById('inputa');
     var a_inputed = a_input.value;
-    a = parseFloat(a_inputed);
+    a = a_inputed;
     console.log('a : ' + a)
 }
 function b_handler(){
     var b_input = document.getElementById('inputb');
     var b_inputed = b_input.value;
-    b = parseFloat(b_inputed);
+    b = b_inputed;
     console.log('b : ' + b)
 }
 
